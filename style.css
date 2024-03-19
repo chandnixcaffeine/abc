@@ -102,7 +102,7 @@ html , body{
 }
 /* login */
 
-#page2, #page3{
+#login, #create{
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url(https://raw.githubusercontent.com/kubowania/tinder-clone/main/client/src/images/6e9794bcedeecf5a8f8f41338a2a7345.webp);
     background-position: center;
     background-size: cover;
